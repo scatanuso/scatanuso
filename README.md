@@ -9,7 +9,7 @@ I am a passionate entry-level IT professional focused on Helpdesk, technical sup
 As a recent graduate with a Bahchelor's in Cybersecurity, my goal is to land an IT support or other IT role where I can utilize my strong foundational skills and knowledge in information technology, and where I can grow into security. My long-term career goal is to become a cybersecurity engineer by leveraging my strong foundation in information technology. I have hands-on practical experience through my internship and training with technical support, troubleshooting software, hardware, and network issues. I'm currently gaining more experience and training through hands-on projects in my virtual lab environment using virtualbox. My journey in IT has led me to develop a passion for cybersecurity, and I am now ready to utilize my skills by working in an encouraging environment while also contruibuting to the goals and success of the company and improving operations, increasing profitably, and enhancing growth.
 
 <h2> 📝Resume</h2>
-https://www.canva.com/design/DAGkHjxmTC0/flB-3ABzdK1MDPrwsv6Zzg/view?utm_content=DAGkHjxmTC0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7e6d3b0ac0
+https://docs.google.com/presentation/d/1cZzWxwbN10mHcxMFWPquZmzcMTEAoIK2ybJIiiiBU1o/edit?usp=sharing
 
 <h2> 🏅Certifications :</h2>
 
