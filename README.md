@@ -24,4 +24,7 @@ https://docs.google.com/document/d/1PEnvCLbOA7mWUwkuPQhQNe0qRa0dQyNyVAIE5I8zSiE/
     - **Summary:** Simulated a real-world organizational structure by creating an Active Directory Domain Environment: setting up Windows 10 hosts and installing Windows 2022 server as domain controller. Implemented SIEM tools by installing and configuring Splunk and Sysmon to perform system, network, and application log monitoring, threat detection, and data consolidation. Configured a Kali Linux Machine to impersonate a threat actor and perform a brute force attack against a domain user. Installed Atomic Red Team (ART) to perform tests against network security defenses and generate telemetry.
     -  🧾 [Project 1](https://youtu.be/ArXpOvnhGl4)
 
-
+2.  🔒🌐**WireGuard VPN Project**
+    - **Tools:** Windows 11 Host Machine, VULTR Cloud Platform, Ubuntu 22.04, WireGuard VPN.
+    - **Summary:** Implemented a WireGuard VPN solution on Vultr by provisioning an Ubuntu-based VPS as the VPN server and configuring a Windows 11 host as the client. Successfully established a secure, encrypted VPN tunnel that routes host internet traffic through the cloud-based VPS to the internet, enhancing security and privacy. 
+    -  🧾 [Project 2](https://youtu.be/ArXpOvnhGl4)
